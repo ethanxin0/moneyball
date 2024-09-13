@@ -5,3 +5,4 @@
 - Eitan Berenfeld
 - Talal Fahkoury
 ### Analysis Descriptions
+- Analysis 1: The focus of this analysis was to create a predictive machine learning model that predicts key offensive performance indicators: batting average (BA), on-base percentage (OBP), and slugging percentage (SLG). We used a dataset of detailed offensive statistics for qualified batters (those with over 500 plate appearances) from the 2015 to 2023 seasons, excluding the 2020 season due to its incomplete nature, which could introduce anomalies that affect the accuracy of the model

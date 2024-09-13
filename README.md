@@ -1,7 +1,8 @@
 # Moneyball
 
-### Description
-- On the surface, the sport of baseball may seem simple, throw the ball, swing the bat, and hit it as far as possible. However, the game is full of a wealth of statistics that allow for a considerable amount of in-depth statistical analysis. With detailed records of every pitch and swing spanning over 70 years, baseball offers a unique opportunity for teams, players, analysts, and students. 
+### Preface
+- On the surface, the sport of baseball may seem simple, throw the ball, swing the bat, and hit it as far as possible. However, the game is full of a wealth of statistics that allow for a considerable amount of in-depth statistical analysis. With detailed records of every pitch and swing spanning over 70 years, baseball offers a unique opportunity for teams, players, analysts, and students.
+- 
 - This project tackles six key research questions, exploring everything from predictive models of player performance and positional advantages to the impact of weather, elevation, rule changes, and financial success on team outcomes. Since the mid-20th century, the science of baseball, known as sabermetrics, has revolutionized how teams utilize statistics to approach the game. With the introduction of Statcast in 2015, nearly every aspect of a player’s game can now be measured, allowing for more informed decision-making. Our project intends to contribute to this ongoing evolution by providing insights that can enhance player development, improve valuations, and sustain a competitive advantage in an increasingly data-driven sport. Understanding these different factors is crucial not just for teams and analysts but for anyone invested in the future of baseball and specifically optimal offensive production.  
 
 ### Authors

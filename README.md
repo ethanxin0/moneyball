@@ -1,5 +1,5 @@
-# moneyball
-###Authors
+# Moneyball
+### Authors
 - Ethan Xin
 - Josh Longo
 - Eitan Berenfeld

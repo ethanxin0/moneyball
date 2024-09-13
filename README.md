@@ -11,4 +11,4 @@
 
 **- Analysis 3:** For this analysis, we examined a couple offensive metrics for the  Colorado Rockies from 2011-2023, who play at 5183 feet, comparing their offensive metrics at home vs away
 
-**- Analysis 4: ** 
+**- Analysis 4:** The implementations of the pitch clock changed the game in many ways. Aimed to increase an attempt in stolen bases and make games more offensvie to draw back the crowd since COVID, we examine how the pitch clock affected the game
